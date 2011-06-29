@@ -1,0 +1,5 @@
+pelican-medicina
+----------------
+A computation pipeline framework for utilising datastreams from the
+Medicina Radio Telescope (http://www.med.ira.inaf.it/index_EN.htm)
+in quasi-real time.
