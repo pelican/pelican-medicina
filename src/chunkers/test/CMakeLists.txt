@@ -10,6 +10,7 @@ set(
 set(
    chunkersTest_src
     src/chunkersTest.cpp
+    src/VisibilityChunkerTest.cpp
 )
 
 #QT4_WRAP_CPP(chunkersTest_src ${chunkersTest_moc_headers})
